@@ -1,0 +1,23 @@
+{
+  "name": "rahul_contracts",
+  "version": "1.0.0",
+  "description": "Contracts test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "debug": "3.0.1",
+    "eth-gas-reporter": "^0.1.1",
+    "keccak": "^1.4.0",
+    "sha256": "^0.2.0",
+    "truffle": "4.0.1",
+    "truffle-hdwallet-provider": "^0.0.3",
+    "web3": "0.20.1",
+    "zeppelin-solidity": "1.6.0"
+  },
+  "license": "ISC"
+}
